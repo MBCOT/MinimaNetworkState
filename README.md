@@ -1,9 +1,9 @@
-# MinimaVerseDAO
+# MinimaNetStateDAO
 
-- MinimaVerseDAO is a set of tools developed to work over the **MINIMA blockchain** that will let anyone to build and rule any organization, community or country or a group of them in a digital way using the Blockchain technology that will let you to build an ecosystem based on Minima coin, Tokens and NFT's to develope all necessary tools, daos, banks and systems required to let you combine them to achive your goal to build a digital world, metaverse, game, country or whatever you want and be able to interact with other blockchains too.
+- MinimaNetStateDAO is a set of tools developed to work over the **MINIMA blockchain** that will let anyone to build and rule any organization, community or country or a group of them in a digital way using the Blockchain technology that will let you to build an ecosystem based on Minima coin, Tokens and NFT's to develope all necessary tools, daos, banks and systems required to let you combine them to achive your goal to build a digital world, metaverse, game, country or whatever you want and be able to interact with other blockchains too.
   - The idea is to build autonomous blocks that work for themselves and let you combine them to build whatever you want or need, with a set of ready to use smart contracts.
 
-- **MinimaVerseDAO** 
+- **MinimaNetStateDAO** 
   - This is the big block where you can build a world of communities where every **RepublicaDAO** is a very big community, country, organitzacion, group (real or virtual) where you can interact between them thru a set of rules that will be avaiable to choose according to the necessities of every community. The MinimaVerseDAO itself will have tools to connect to other metaverses build over minima blockchain or other blockhains and to interact with them as well as it could nest anyone of the selfworking blocks avaiables.
 - **RepublicaDAO**
   - This block it is meant to build big communities, countries or groups that will host milions of users and needs to be ruled according specific necesisties, if it is a country to be ruled it should need to include the following blocks(ParliamentDAO, VoteDAO, BankDAO, HealthCareDAO, UniversityDAO, InsuranceDAO, InvestmentDAO, Proof of Identity and so on......), just as example.
@@ -57,10 +57,4 @@
 - **Smart Contract Builder**
   - A system to let people to build smart contracts based on a series of rules, conditions, goals from basic set of avaiables smart contracts.
 -------------------------------------
-- **GODOT-MINIMA API**
-  - An API that let you integrate GODOT Engine Game into minima node. Do any 2d/3d/single player/multiplayer game that can interact directly with your minima node !!!
-  
-<!---
-elledaniels/elledaniels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
