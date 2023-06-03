@@ -1,7 +1,7 @@
 # MinimaNetStateDAO <img src="logo_blue.png" width="350" title="Network State and a base for any Metaverse" alt="Network State and a base for any Metaverse" align="right">
-**Network State and a base for any Metaverse*
+**Network State and a base for any Metaverse**
 
-<br/><br/><br/>
+<br/><br/>
 
 - MinimaNetStateDAO is a set of tools developed to work over the **MINIMA blockchain** that will let anyone to build and rule any organization, community or country or a group of them in a digital way using the Blockchain technology that will let you to build an ecosystem based on Minima coin, Tokens and NFT's to develope all necessary tools, daos, banks and systems required to let you combine them to achive your goal to build a digital world, metaverse, game, country or whatever you want and be able to interact with other blockchains too.
   - The idea is to build autonomous blocks that work for themselves and let you combine them to build whatever you want or need, with a set of ready to use smart contracts.
