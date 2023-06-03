@@ -1,4 +1,4 @@
-# MinimaNetStateDAO <img src="logo_blue.png" width="350" title="Godot - Minima API integration" alt="Godot - Minima API integration" align="right">
+# MinimaNetStateDAO <img src="logo_blue.png" width="350" title="Network State and a base for any Metaverse" alt="Network State and a base for any Metaverse" align="right">
 Network State and a base for any Metaverse
 
 <br/><br/>
