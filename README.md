@@ -21,7 +21,7 @@ The platform enables users to create and participate in network states tailored 
 - **Financial Management:** Participants have access to financial management tools and services, enabling them to manage their finances efficiently and securely.
 - **Tax Optimization:** Network states offer low-tax environments, allowing participants to optimize their tax obligations and retain more of their earnings.
 - **Protection Against Government Abuses:** By operating within decentralized network states, individuals can mitigate the risk of government abuses and enjoy greater freedom and privacy.
-- **Create your own economy:** Tokenization and smart contracts give anyone the hability to create his own economy and build any monetary system to be used by anyone on the network sate.
+- **Create your own economy:** Tokenization and smart contracts give anyone the hability to create his own economy and build any monetary system to be used by anyone on the network state.
 ## Conclusion
 Network States over Minima represents a paradigm shift in governance, offering individuals the opportunity to build and participate in decentralized network states governed by their own institutions. By embracing principles of autonomy, transparency, and inclusivity, this initiative empowers individuals to shape their socio-economic realities and create alternative models of governance that align with their values and aspirations. With its innovative approach and transformative potential, Network States over Minima has the capacity to revolutionize traditional governance structures and pave the way for a more equitable and decentralized future.
 
